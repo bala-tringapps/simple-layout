@@ -1,0 +1,27 @@
+.header{
+    background-color: #00308F;
+    padding: 30px 30px;
+}
+.navigation{
+    background-color: #5072A7;
+   padding: 30px 30px;
+}
+.Child-1{
+    background-color: lightsalmon;
+    padding: 30px 30px;
+    height: 50vh;
+    width: 20%;
+}
+.Child-2{
+    background-color: #007FFF;
+    padding: 30px 30px;
+    width: 80%;
+}
+.footer{
+    background-color: lightseagreen;
+    padding: 30px 30px;
+}
+.parent-div{
+    display: flex;
+    flex-direction: row;
+}
